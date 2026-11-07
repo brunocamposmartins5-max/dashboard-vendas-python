@@ -1,0 +1,12 @@
+data,cliente,produto,valor,vendedor
+2026-01-05,Empresa Alfa,Consultoria,4500,Carlos
+2026-01-12,Empresa Beta,Software,8200,Ana
+2026-01-18,Empresa Gama,Consultoria,3100,Carlos
+2026-02-02,Empresa Alfa,Suporte,1200,Ana
+2026-02-09,Empresa Delta,Software,9600,Marcos
+2026-02-15,Empresa Beta,Consultoria,5300,Carlos
+2026-02-22,Empresa Epsilon,Suporte,900,Ana
+2026-03-01,Empresa Gama,Software,7400,Marcos
+2026-03-10,Empresa Delta,Consultoria,4800,Carlos
+2026-03-18,Empresa Alfa,Software,6700,Ana
+2026-03-25,Empresa Epsilon,Consultoria,3900,Marcos
