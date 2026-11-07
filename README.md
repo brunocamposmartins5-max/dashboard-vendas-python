@@ -2,6 +2,8 @@
 
 Dashboard interativo de vendas desenvolvido em Python, com indicadores de desempenho (KPIs) e visão de CRM.
 
+👉 [Clique aqui para acessar o Dashboard online](https://dashboard-vendas-brunomartins.streamlit.app/)
+
 ## 🚀 Funcionalidades
 
 - **KPIs em tempo real:** faturamento total, ticket médio e número de vendas.
