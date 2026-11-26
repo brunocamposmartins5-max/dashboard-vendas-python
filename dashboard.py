@@ -17,7 +17,7 @@ st.markdown(
     @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600;700&display=swap');
 
     .stApp {
-        background-color: #060911;
+        background-color: #02060a;
         background-image:
             linear-gradient(rgba(0, 242, 254, 0.025) 1px, transparent 1px),
             linear-gradient(90deg, rgba(0, 242, 254, 0.025) 1px, transparent 1px);
