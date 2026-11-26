@@ -37,6 +37,25 @@ st.markdown(
         font-family: 'JetBrains Mono', monospace;
     }
 
+    /* Tags do multiselect na barra lateral (estilo pill do portfólio) */
+    [data-testid="stSidebar"] span[data-baseweb="tag"] {
+        background-color: rgba(0, 242, 254, 0.1) !important;
+        border: 1px solid rgba(0, 242, 254, 0.35) !important;
+        color: #00f2fe !important;
+        border-radius: 100px !important;
+        font-family: 'JetBrains Mono', monospace;
+        font-size: 0.78rem !important;
+    }
+
+    [data-testid="stSidebar"] span[data-baseweb="tag"] svg {
+        fill: #00f2fe !important;
+    }
+
+    [data-testid="stSidebar"] div[data-baseweb="select"] > div {
+        background-color: #0d1527 !important;
+        border-color: #1e293b !important;
+    }
+
     /* Cards de métricas (KPIs) */
     div[data-testid="metric-container"] {
         background-color: #0d1527;
